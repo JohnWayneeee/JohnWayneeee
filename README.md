@@ -1,73 +1,114 @@
-<!-- ВСТАВЬТЕ БАННЕР ПОЗЖЕ -->
-<!-- [![Banner](https://via.placeholder.com/1280x400/2D3748/FFFFFF?text=Your+Awesome+Banner+Here)](https://example.com) -->
+<!-- ============================= -->
+<!--          BANNER SECTION       -->
+<!-- ============================= -->
 
-<h1 align="center">Привет, я John 👋</h1>
-<h3 align="center">[Ваша специализация, например: Разработчик | Студент | Инженер]</h3>
-
----
-
-## 🚀 Обо мне
-
-Я [краткое описание, например: начинающий разработчик] с интересом к [ваши интересы, например: веб-разработка, данные, мобильные приложения]. Всегда открыт для изучения новых технологий и сотрудничества над интересными проектами.
-
-- 🔭 В настоящее время учусь и развиваюсь в IT
-- 🌱 Изучаю: [ваши текущие технологии, например: JavaScript, Python]
-- 📫 Как связаться: [ваш email или телеграм]
-- ⚡ Интересный факт: [что-то интересное о себе]
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:6D28D9&height=180&section=header&text=John%20Wayne&fontSize=45&fontColor=FFFFFF&fontAlignY=35)
 
 ---
 
-## 🛠 Мой стек технологий
+<!-- ============================= -->
+<!--          INTRODUCTION         -->
+<!-- ============================= -->
+
+# Hi, I'm John Wayne  
+> Exploring the world of code, AI, and everything in between.
+
+---
+
+<!-- ============================= -->
+<!--             ABOUT ME          -->
+<!-- ============================= -->
+
+## 🧩 About Me  
+
+I'm just a guy fascinated by technology.  
+I love exploring new tools, frameworks, and especially everything related to AI.  
+Currently learning **Python** and building small projects to understand how things really work under the hood.  
+Still figuring things out — one line of code at a time.  
+
+---
+
+<!-- ============================= -->
+<!--         TECH & TOOLS          -->
+<!-- ============================= -->
+
+## ⚙️ Tech & Tools  
 
 <p align="center">
-  <!-- Добавьте ваши технологии позже -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Мои проекты
+<!-- ============================= -->
+<!--           MY PROJECTS         -->
+<!-- ============================= -->
 
-### 🎯 Проект в разработке
-**Название проекта** - Краткое описание того, над чем работаю сейчас.
+## 🚀 My Projects  
 
-*Планируемые функции:*
-- [ ] Функция 1
-- [ ] Функция 2  
-- [ ] Функция 3
+### [RAG Indexing Tool](https://github.com/JohnWayneDev/rag-indexing-tool)  
+_Universal utility for indexing documents of various formats into a vector database with semantic search support. Converts documents to RAG-compatible format for use with LLMs._
 
-*Скоро здесь появятся мои работы...*
+**Features:**  
+- Document parsing and vector embedding  
+- Support for multiple file formats  
+- Integration-ready with any LLM-based RAG system  
 
 ---
 
-## 📊 Статистика GitHub
+<!-- ============================= -->
+<!--           WIP PROJECTS        -->
+<!-- ============================= -->
+
+## 🧠 Work in Progress  
+
+- **Secret Desktop App** 🧩  
+  _Currently building a desktop automation tool focused on smart documentation management._  
+
+  **In development:**  
+  - AI-driven content generation  
+  - Automated file organization  
+  - Cross-platform support via Tauri  
+
+---
+
+<!-- ============================= -->
+<!--          CONNECT WITH ME      -->
+<!-- ============================= -->
+
+## 🌐 Connect With Me  
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/GhostTraffic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#)  
+
+---
+
+<!-- ============================= -->
+<!--           GITHUB STATS        -->
+<!-- ============================= -->
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=default" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnWayneDev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JohnWayneDev&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 📫 Свяжитесь со мной
+<!-- ============================= -->
+<!--            FOOTER             -->
+<!-- ============================= -->
 
-<p align="center">
-  <!-- Обновите ссылки позже -->
-  <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Не стесняйтесь заглянуть в мои репозитории и оставить звездочку, если вам понравится какой-то проект!
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:1E1E2E&height=120&section=footer)
