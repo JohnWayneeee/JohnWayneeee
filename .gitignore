@@ -1,0 +1,11 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env
+EOF
