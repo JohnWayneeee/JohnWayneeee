@@ -56,6 +56,6 @@
 
 - 💬 [Telegram](https://t.me/GhostTraffic)  
   *"Hi! Interested in [job/collaboration/project]. Let's talk!"*
-- 💼 [LinkedIn](https://www.linkedin.com/in/john-wayne-b4a166391/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ilia-karpenko-b4a166391/)
 
 ---
