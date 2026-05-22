@@ -13,6 +13,7 @@
 
 <p align="center">
   <a href="https://t.me/GhostTraffic"><img src="https://img.shields.io/badge/Telegram-@GhostTraffic-2CA5E0?logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/+yojN8tBZNfQyNTky"><img src="https://img.shields.io/badge/Telegram%20Channel-Join-2CA5E0?logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ilia-karpenko-b4a166391/"><img src="https://img.shields.io/badge/LinkedIn-Illia%20Karpenko-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://casely.digital/"><img src="https://img.shields.io/badge/Project-casely.digital-ff6b6b" /></a>
 </p>
@@ -22,7 +23,7 @@
 ## What I bring to a team
 
 | Area | What I actually do |
-|------|--------------------|
+|------|---------------------|
 | **API automation** | REST, SOAP, gRPC — Pytest + Requests, end-to-end contract validation |
 | **Data validation** | PostgreSQL & Redis assertions, Pydantic response typing with strict mode |
 | **CI/CD quality gates** | Blocking jobs on failure, pytest-xdist parallel runs (2–3× faster) |
@@ -80,6 +81,7 @@ Free AI skill for Claude Code, Cursor, and any AI IDE. Uses Docling OCR + atomic
 ## 🌐 Let's talk
 
 - 💬 **Telegram:** [@GhostTraffic](https://t.me/GhostTraffic) — fastest way to reach me
+- 📢 **Telegram Channel:** [Join to my channel](https://t.me/+yojN8tBZNfQyNTky) — QA tips, automation insights, and updates
 - 💼 **LinkedIn:** [Illia Karpenko](https://www.linkedin.com/in/ilia-karpenko-b4a166391/)
 
 Open to: **senior AQA roles**, **backend test automation consulting**, and **open-source QA tooling collaboration**.
