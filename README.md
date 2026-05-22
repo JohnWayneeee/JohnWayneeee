@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/GhostTraffic"><img src="https://img.shields.io/badge/Telegram-@GhostTraffic-2CA5E0?logo=telegram&logoColor=white" /></a>
   <a href="https://t.me/+yojN8tBZNfQyNTky"><img src="https://img.shields.io/badge/Telegram%20Channel-Join-2CA5E0?logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ilia-karpenko-b4a166391/"><img src="https://img.shields.io/badge/LinkedIn-Illia%20Karpenko-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://casely.digital/"><img src="https://img.shields.io/badge/Project-casely.digital-ff6b6b" /></a>
@@ -76,12 +75,15 @@ Free AI skill for Claude Code, Cursor, and any AI IDE. Uses Docling OCR + atomic
 
 > *Built because writing test cases manually is the most expensive thing QA engineers do.*
 
+### [ai-agent-skills](https://github.com/JohnWayneeee/ai-agent-skills)
+**Drop-in instruction sets that make your AI agent actually useful.**  
+A curated catalog of reusable skills — each one a self-contained prompt you plug into Claude Code, Codex, or any compatible agent runtime and invoke by name. No configuration, no boilerplate.
+
 ---
 
 ## 🌐 Let's talk
 
-- 💬 **Telegram:** [@GhostTraffic](https://t.me/GhostTraffic) — fastest way to reach me
-- 📢 **Telegram Channel:** [Join to my channel](https://t.me/+yojN8tBZNfQyNTky) — QA tips, automation insights, and updates
+- 📢 **Telegram Channel:** [Join](https://t.me/+yojN8tBZNfQyNTky)
 - 💼 **LinkedIn:** [Illia Karpenko](https://www.linkedin.com/in/ilia-karpenko-b4a166391/)
 
 Open to: **senior AQA roles**, **backend test automation consulting**, and **open-source QA tooling collaboration**.
