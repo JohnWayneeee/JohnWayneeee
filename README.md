@@ -93,3 +93,5 @@ Open to: **senior AQA roles**, **backend test automation consulting**, and **ope
 <p align="center">
   <em>Tests should catch bugs, not create them. I keep that ratio in check.</em>
 </p>
+
+<p align="center">☕ <a href="https://buymeacoffee.com/JohnWayne">Buy me a coffee</a></p>
