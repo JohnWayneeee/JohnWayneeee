@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ilia Karpenko
+# ILIA KARPENKO
 
 **Free, open-source tools for people who work with AI agents.**
 
