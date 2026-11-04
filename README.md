@@ -17,6 +17,7 @@
 
 | | Project | What it does |
 |---|---|---|
+| 🌳 | [**agentgc**](https://github.com/JohnWayneeee/agentgc) | Rust CLI that gives each task of parallel Claude Code, Codex and other CLI agents its own git worktree, free ports, database name and env file, runs its services and removes finished tasks safely. |
 | 🧪 | [**Casely**](https://github.com/JohnWayneeee/casely-qa-skill) | AI test case generator for Claude. Turns PDF, DOCX and XLSX specs, Jira issues and Confluence pages into TestRail-ready test cases in your team's format. Also builds Postman collections and bug reports from a trace ID. |
 | 📺 | [**CleanTV**](https://github.com/JohnWayneeee/cleantv) | Claude Code skill that removes ads from the Google TV and Android TV home screen and speeds the TV up over ADB, no root. One command undoes every change. |
 | 🔎 | [**free-seo-mcp**](https://github.com/JohnWayneeee/free-seo-mcp) | Keyword research MCP server for Claude and Cursor. Autocomplete, Google Trends, Bing search volume, Reddit threads and competitor sitemaps, no paid API. |
